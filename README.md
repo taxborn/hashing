@@ -6,6 +6,7 @@ as fast as possible.
 
 ### Current speeds
 :desktop_computer: **CPU:** i7-13700k
-:video_camera: **GPU:** Radeon RX 7900 XT
+
+:tv: **GPU:** Radeon RX 7900 XT
 
 :desktop_computer: [hashslingingslasher](hashslingingslasher/) - 5.5 MH/s Single-threaded
