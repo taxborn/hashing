@@ -9,7 +9,7 @@
 #define INPUT_SUFFIX_LENGTH 1
 #define MAX_INPUT_LENGTH (sizeof(INPUT_PREFIX) + 12)
 #define HASH_LENGTH 32
-#define NUM_THREADS 10 // Change this to the desired number of threads
+#define NUM_THREADS 24 // Change this to the desired number of threads
 
 struct ThreadData {
     unsigned long long start;

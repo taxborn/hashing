@@ -9,4 +9,7 @@ as fast as possible.
 
 :tv: **GPU:** Radeon RX 7900 XT
 
-:desktop_computer: [hashslingingslasher](hashslingingslasher/) - 5.5 MH/s Single-threaded
+:desktop_computer: [hss](hss/) - ~240 MH/s Multi-threaded Rust Program
+:desktop_computer: [hashslingingslasher](hashslingingslasher/) - 5.5 MH/s Single-threaded Rust Program
+:desktop_computer: [main.c](main.c) - 7 MH/s Mutli-threaded C program
+:desktop_computer: [sha.py](sha.py) - ~2.4 MH/s Single-threaded Python Program
