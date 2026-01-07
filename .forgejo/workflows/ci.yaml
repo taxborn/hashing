@@ -1,0 +1,9 @@
+on: [push]
+jobs:
+  print-content:
+    runs-on: nixos-x86_64_linux
+    steps:
+      - name: checkout code
+        uses: actions/checkout@v6
+      - name: list directory contents
+        run: ls -la
