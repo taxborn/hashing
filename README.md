@@ -1,7 +1,5 @@
 # Hashing Experiments
-I came across [SHAllenge](https://shallenge.quirino.net/) and decided to 
-create my own on my website [www.taxborn.com/sha](https://www.taxborn.com/sha). 
-I also wanted to create my own program to generate SHA256 (and other) hashes easily and
+I came across [SHAllenge](https://shallenge.quirino.net/) and decided I wanted to create my own program to generate SHA256 (and other) hashes easily and
 as fast as possible.
 
 #### Hardware
